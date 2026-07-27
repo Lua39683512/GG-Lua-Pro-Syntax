@@ -1,7 +1,7 @@
-# GG修改器Lua语法高亮文件/GameGuardian Lua Pro Syntax
+# GG Lua语法高亮文件/GameGuardian Lua Pro Syntax
 
 适用于 MT管理器夜间主题 的 GameGuardian Lua 语法高亮。
-GG Lua Pro Syntax is a syntax highlighting file for GameGuardian Lua scripts in MT Manager dark mode.
+GameGuardian Lua Pro Syntax is a syntax highlighting file for GameGuardian Lua scripts in MT Manager dark mode.
 
 ## 特性/Features
 
