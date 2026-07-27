@@ -1,6 +1,6 @@
 # GG Lua Pro Syntax
 
-适用于 MT管理器 的 GameGuardian Lua 语法高亮。
+适用于 MT管理器夜间主题 的 GameGuardian Lua 语法高亮。
 
 ## 特性
 
