@@ -52,3 +52,11 @@ GameGuardian Lua Pro Syntax is a syntax highlighting file for GameGuardian Lua s
 3. Tap the file
 4. Select "Install Syntax File"
 5. Select this syntax for Lua files
+
+## 图片/Preview
+
+![Preview 1](images/preview1.png)
+
+![Preview 2](images/preview2.png)
+
+![Preview 3](images/preview3.png)
