@@ -8,25 +8,25 @@ GameGuardian Lua Pro Syntax is a syntax highlighting file for GameGuardian Lua s
 - Lua关键字高亮
   Lua keyword highlighting
 
-- 函数定义/调用区分
+- 函数定义/调用高亮
   Distinguish function definitions and function calls
  
 - GG API高亮
   GameGuardian API highlighting
 
-- gg.TYPE_* 常量分类
+- gg.TYPE_* 高亮
   gg.TYPE_* constant highlighting
 
-- gg.REGION_* 分类
+- gg.REGION_* 高亮
   gg.REGION_* constant highlighting
 
-- gg.SIGN_* 分类
+- gg.SIGN_* 高亮
   gg.SIGN_* constant highlighting
 
-- gg.PROT_* 分类
+- gg.PROT_* 高亮
   gg.PROT_* constant highlighting
 
-- GG POINTER 分类
+- GG POINTER 高亮
   GG POINTER constant highlighting
 
 - GG搜索数字串高亮
