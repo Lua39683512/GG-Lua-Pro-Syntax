@@ -55,8 +55,8 @@ GameGuardian Lua Pro Syntax is a syntax highlighting file for GameGuardian Lua s
 
 ## 图片/Preview
 
-![Preview 1](images/preview1.png)
+![图片images](20260728_211807.png)
 
-![Preview 2](images/preview2.png)
+![图片images](images/preview2.png)
 
-![Preview 3](images/preview3.png)
+![图片images](images/preview3.png)
