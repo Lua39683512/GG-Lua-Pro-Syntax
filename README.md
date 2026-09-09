@@ -32,9 +32,6 @@ GameGuardian Lua Pro Syntax is a syntax highlighting file for GameGuardian Lua s
 - GG搜索数字串高亮
   GG search number pattern highlighting
 
-- 作者/版本注释高亮
-  Author and version comment highlighting
-
 ## 安装/Installation
 
 ### 中文
