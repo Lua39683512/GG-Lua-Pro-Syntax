@@ -39,7 +39,7 @@ GameGuardian Lua Pro Syntax is a syntax highlighting file for GameGuardian Lua s
 
 ### 中文
 
-1. 下载 GameGuardian_Lua_Pro.mtsx
+1. 下载 `GameGuardian_Lua_Pro.mtsx`
 2. 使用 MT管理器打开
 3. 点击该文件
 4. 选择安装语法文件
