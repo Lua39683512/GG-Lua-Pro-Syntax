@@ -76,7 +76,7 @@
         {match:/\b[A-Za-z_]\w*(?=\s*=)/,0:"variable"}
         {match:/\.(address|flags|value|freeze|freezeType|name)\b/,1:"property"}
         //绘制
-        {match:/\b[A-Za-z_]\w*:(setColor|setWidth|setStyle|setTextSize|drawText|show|drawCircle|drawLine|setAntiAlias|drawRect|drawArc|close|save|restore)\b/,0:"ggApi"}
+        {match:/\b[A-Za-z_]\w*:(setColor|setWidth|setStyle|setTextSize|drawText|show|drawCircle|drawLine|setAntiAlias|drawRect|drawArc|close|save|restore|invalidate|gmatch|match)\b/,0:"ggApi"}
         {match:/\bgetWH\b/,0:"ggApi"}
         {match:/:[ \t]*([A-Za-z_]\w*)(?=\()/,1:"ggApi"}
         //===========================
